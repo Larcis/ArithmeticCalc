@@ -14,4 +14,7 @@ operation and immediate value.
   
 Each expression must be in one line. 
   
-Variable names must be one length ,  a-z , lower case only.  
+Variable names must be one length ,  a-z , lower case only. 
+  
+INT_MAX(2,147,483,647) variable is reserved for some controls.  
+You can't use this value in your calculations.
